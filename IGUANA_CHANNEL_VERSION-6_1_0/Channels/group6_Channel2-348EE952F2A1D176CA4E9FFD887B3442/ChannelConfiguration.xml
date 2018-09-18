@@ -1,0 +1,19 @@
+<channel
+   name="group6_Channel2"
+   guid="348EE952F2A1D176CA4E9FFD887B3442"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_mapper
+      guid="group6_Channel2-To-JrICSLv2lXGiTD"
+      commit_id="80d72b0bb31619cd46971432ae69a00c1f9e93ee"
+      commit_comment="6-2">
+      <dequeue_list>
+         <dequeue
+            source_name="group6_Channel1"
+            dequeue_guid="7EDB556B14FCDD2BF0C2E942BCB5CC9D"/>
+      </dequeue_list>
+   </to_mapper>
+   <from_channel/>
+</channel>
