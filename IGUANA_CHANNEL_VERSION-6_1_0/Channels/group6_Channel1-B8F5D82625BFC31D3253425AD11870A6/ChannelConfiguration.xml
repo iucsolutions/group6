@@ -9,8 +9,8 @@
    </to_channel>
    <from_mapper
       guid="group6_Channel1-From-Nk1NxUPhemnfta"
-      commit_id="f4f7ac6c8c899586aa69cf5f9f12a92ec85ae021"
-      commit_comment="Import Translators: 6"
+      commit_id="cb12deb507713eaf2fe6bd6fe0c3e379262a87f5"
+      commit_comment="test"
       poll_time="15000">
    </from_mapper>
    <message_filter

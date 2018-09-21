@@ -7,8 +7,8 @@
    use_message_filter="false">
    <to_mapper
       guid="group6_Channel4-To-sColWLUFa42Nd6"
-      commit_id="5c02150be67159596791c448dbb5289af388d78b"
-      commit_comment="6-4">
+      commit_id="e0a510fa468fafd600bd93c318856dba27d07dee"
+      commit_comment="group name added">
       <dequeue_list>
          <dequeue
             source_name="group6_Channel1"
